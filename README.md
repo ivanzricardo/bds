@@ -1,4 +1,4 @@
-## bds
+## Bancos de Dados em Saúde (bds)
 Este é o repositório público da disciplina de Bancos de Dados em Saúde do Departamento de Saúde Coletiva da Universidade de Brasília
 
 Contato:
